@@ -11,12 +11,8 @@
             "id": "0c7ac5aee8b014b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Monthly/2024-03.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Monthly/2024-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Monthly/2024-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Monthly/2024-03.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +169,9 @@
   },
   "active": "0c7ac5aee8b014b9",
   "lastOpenFiles": [
+    "3. Monthly/2024-03.md",
     "2. Weekly/2024-W12.md",
     "1. Daliy/2024-03-22.md",
-    "3. Monthly/2024-03.md",
     "5. 정보처리산업기사/안녕하세요.md",
     "Attached file/panda12.png",
     "5. 정보처리산업기사/무제 파일 1.md",
