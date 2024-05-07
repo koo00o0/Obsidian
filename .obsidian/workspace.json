@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a39bad6c2780dbc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +186,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c7ac5aee8b014b9",
+  "active": "4a39bad6c2780dbc",
   "lastOpenFiles": [
     "3. Monthly/2024-04.md",
     "2. Weekly/2024-W15.md",
