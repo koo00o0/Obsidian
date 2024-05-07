@@ -14,6 +14,24 @@
               "type": "markdown",
               "state": {
                 "file": "1. Daliy/2024-03-22.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "55c29f8feb8da267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95a8176576af0472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daliy/2024-03-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "right": {
     "id": "313e75ab7859d6d3",
@@ -175,7 +193,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c7ac5aee8b014b9",
+  "active": "95a8176576af0472",
   "lastOpenFiles": [
     "1. Daliy/2024-03-22.md",
     "무제 파일 1.canvas",
