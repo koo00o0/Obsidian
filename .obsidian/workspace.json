@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daliy/2024-03-22.md",
+                "file": "1. Daliy/2024-05-09.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daliy/2024-05-08.md",
+                "file": "1. Daliy/2024-05-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daliy/2024-03-22.md",
+                "file": "1. Daliy/2024-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daliy/2024-03-22.md",
+                "file": "1. Daliy/2024-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daliy/2024-03-22.md"
+                "file": "1. Daliy/2024-05-09.md"
               }
             }
           },
@@ -193,15 +193,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c7ac5aee8b014b9",
+  "active": "95a8176576af0472",
   "lastOpenFiles": [
     "1. Daliy/2024-05-08.md",
-    "4. Yearly/2024.md",
+    "1. Daliy/2024-05-09.md",
     "3. Monthly/2024-05.md",
     "2. Weekly/2024-W19.md",
+    "1. Daliy/2024-03-22.md",
+    "4. Yearly/2024.md",
     "1. Daliy/2024-04-08.md",
     "1. Daliy/2024-05-07.md",
-    "1. Daliy/2024-03-22.md",
     "1. Daliy/2024-03-21.md",
     "무제 파일 1.canvas",
     "AttachedFile/dongdong.jpg",
@@ -226,7 +227,6 @@
     "AttachedFile",
     "무제 폴더/무제 파일 4.md",
     "무제 폴더/무제 파일 3.md",
-    "무제 폴더/무제 파일 2.md",
     "무제 폴더 10",
     "무제 폴더 9",
     "무제 폴더 8",
