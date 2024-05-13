@@ -2,7 +2,7 @@ C#
 
 >  Infragistic  셋팅하는 방법
 
-
+[[1주차 공부 내용 정리]]
 
 ### 1) 설치 
 
@@ -11,6 +11,7 @@ C#
 02 폴더의 NetAdvantage_WinForms_20111.2071_SR 설치
 03 Enterprise Library 5.0 설치
 
+--
 
 ### 2) 설치 완료 후
 
