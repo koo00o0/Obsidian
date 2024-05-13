@@ -5,7 +5,7 @@
 [[1주차 공부 내용 정리]]
 
 ### 1) 설치 
-
+#aaaa
 
 01 폴더의 NetAdvantage_WinForms_20111먼저 설치
 02 폴더의 NetAdvantage_WinForms_20111.2071_SR 설치
