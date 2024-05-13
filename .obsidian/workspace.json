@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/옵시디언 사용법.md",
+                "file": "Templates/탬플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,6 +21,14 @@
           },
           {
             "id": "5d7115a5cafa470d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f54eeac5447fc1b6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/옵시디언 사용법.md",
+                "file": "Templates/탬플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/옵시디언 사용법.md",
+                "file": "Templates/탬플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/옵시디언 사용법.md"
+                "file": "Templates/탬플릿.md"
               }
             }
           },
@@ -184,11 +192,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f79071a24ae1fa1",
+  "active": "49f131965c2e011f",
   "lastOpenFiles": [
+    "Obsidian/옵시디언 사용법.md",
+    "Templates/탬플릿.md",
     "Templates",
     "DB/Mssql",
-    "Obsidian/옵시디언 사용법.md",
     "1. Daliy/2024-03-15.md",
     "Language/C#/Windows Form/W.F 개념.md",
     "Language/C#/Windows Form/특징.md",
@@ -205,7 +214,6 @@
     "Language/JAVA",
     "Language/C#",
     "무제 폴더 1",
-    "Language",
     "3. Monthly/2024-04.md",
     "AttachedFile/dongdong.jpg",
     "AttachedFile/panda12.png",
