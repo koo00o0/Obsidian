@@ -1,8 +1,9 @@
 {
   "accentColor": "#7756c2",
   "cssTheme": "AnuPpuccin",
-  "theme": "obsidian",
+  "theme": "system",
   "enabledCssSnippets": [
     "extended-colorschemes"
-  ]
+  ],
+  "baseFontSize": 18
 }
