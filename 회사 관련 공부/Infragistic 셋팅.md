@@ -1,0 +1,40 @@
+
+
+C# 
+
+>  Infragistic  셋팅하는 방법
+
+
+
+### 1) 설치 
+
+
+01 폴더의 NetAdvantage_WinForms_20111먼저 설치
+02 폴더의 NetAdvantage_WinForms_20111.2071_SR 설치
+03 Enterprise Library 5.0 설치
+
+
+
+### 2) 설치 완료 후
+
+
+1) Visual studio 실행하여 도구상자에 하나의 탭 추가 
+
+2) 탭 추가하여 오른쪽 마우스 클릭 
+
+3)  항목 선택을 클릭한다
+
+4) .NET Framework 구성 요소 클릭한다
+
+5)  필터 : Infragistics를 검색하여 모든항목 체크
+
+
+
+
+
+
+
+
+
+
+
