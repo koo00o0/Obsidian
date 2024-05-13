@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사 관련 공부/Infragistic 셋팅.md",
+                "file": "회사 관련 공부/Infragistic.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사 관련 공부/Infragistic 셋팅.md",
+                "file": "회사 관련 공부/Infragistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사 관련 공부/Infragistic 셋팅.md",
+                "file": "회사 관련 공부/Infragistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사 관련 공부/Infragistic 셋팅.md"
+                "file": "회사 관련 공부/Infragistic.md"
               }
             }
           },
@@ -221,7 +221,7 @@
   "active": "6dc4a0b2c5d9830c",
   "lastOpenFiles": [
     "Obsidian/마크다운 사용법.md",
-    "회사 관련 공부/Infragistic 셋팅.md",
+    "회사 관련 공부/Infragistic.md",
     "Obsidian/옵시디언 사용법.md",
     "AttachedFile/panda12.png",
     "AttachedFile/dongdong.jpg",

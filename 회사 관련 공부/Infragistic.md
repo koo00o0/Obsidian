@@ -1,4 +1,4 @@
-C# 
+
 
 >  Infragistic  셋팅하는 방법
 
@@ -11,9 +11,12 @@ C#
 02 폴더의 NetAdvantage_WinForms_20111.2071_SR 설치
 03 Enterprise Library 5.0 설치
 
---
-
 ### 2) 설치 완료 후
+
+>[!done]- 안녕하세요
+>ㄴ
+>ㄴ 
+>  
 
 
 1) Visual studio 실행하여 도구상자에 하나의 탭 추가 
