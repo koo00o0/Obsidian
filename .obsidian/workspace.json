@@ -39,6 +39,18 @@
             }
           },
           {
+            "id": "ffd4ef01502c8f4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study 공부 정리/1주차 공부 내용 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "95a8176576af0472",
             "type": "leaf",
             "state": {
@@ -51,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daliy/2024-05-13무제 파일.md",
+                "file": "Study 공부 정리/1주차 공부 내용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daliy/2024-05-13무제 파일.md",
+                "file": "Study 공부 정리/1주차 공부 내용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daliy/2024-05-13무제 파일.md"
+                "file": "Study 공부 정리/1주차 공부 내용 정리.md"
               }
             }
           },
@@ -207,9 +219,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95a8176576af0472",
+  "active": "ffd4ef01502c8f4d",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "Study 공부 정리/1주차 공부 내용 정리.md",
     "1. Daliy/2024-05-13무제 파일.md",
+    "Study 공부 정리",
     "회사 관련 공부/Infragistic 셋팅.md",
     "회사 관련 공부",
     "2. Weekly/2024-W11.md",
@@ -238,8 +253,6 @@
     "1. Daliy/2024-03-16.md",
     "1. Daliy/2024-03-15.md",
     "1. Daliy/2024-03-17.md",
-    "Welcome.md",
-    "create a link.md",
     "5. 정보처리산업기사",
     "AttachedFile",
     "무제 폴더 10",
@@ -247,7 +260,6 @@
     "무제 폴더 8",
     "무제 폴더 7",
     "무제 폴더 6",
-    "무제 폴더 5",
-    "Obsidian"
+    "무제 폴더 5"
   ]
 }
