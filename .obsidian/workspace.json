@@ -4,44 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "db99ca7b9832150d",
-        "type": "tabs",
+        "id": "d1ae898d0032a957",
+        "type": "split",
         "children": [
           {
-            "id": "0c7ac5aee8b014b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daliy/2024-05-13.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+            "id": "debd682bf437a79c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0c7ac5aee8b014b9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Daliy/2024-05-13.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "7d6d43c4fed3de9d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "95a8176576af0472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daliy/2024-05-13.md",
-                "mode": "source",
-                "source": false
+            "id": "db99ca7b9832150d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7d6d43c4fed3de9d",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "95a8176576af0472",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Daliy/2024-05-13.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       },
       {
         "id": "27aedd5b5e7fcc9a",
@@ -215,8 +228,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6dc4a0b2c5d9830c",
+  "active": "6f79071a24ae1fa1",
   "lastOpenFiles": [
+    "무제 폴더",
     "1. Daliy/2024-05-13.md",
     "2. Weekly/2024-W11.md",
     "1. Daliy/2024-05-09.md",
@@ -247,7 +261,6 @@
     "Welcome.md",
     "create a link.md",
     "5. 정보처리산업기사",
-    "1. Daliy/2024-03-18.md",
     "AttachedFile",
     "무제 폴더 10",
     "무제 폴더 9",
