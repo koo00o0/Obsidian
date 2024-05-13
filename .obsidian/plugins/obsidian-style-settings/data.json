@@ -30,5 +30,8 @@
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
   "anuppuccin-theme-settings@@anp-font-live-preview-wt": "600",
-  "anuppuccin-theme-settings@@anp-font-preview-wt": "600"
+  "anuppuccin-theme-settings@@anp-font-preview-wt": "600",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte"
 }
