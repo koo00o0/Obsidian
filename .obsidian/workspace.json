@@ -4,65 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "debd682bf437a79c",
+        "id": "9e1312c472a8893d",
         "type": "tabs",
         "children": [
           {
-            "id": "0c7ac5aee8b014b9",
+            "id": "b9da17923f421ad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/마크다운 사용법.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "27aedd5b5e7fcc9a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ffd4ef01502c8f4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study 공부 정리/1주차 공부 내용 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95a8176576af0472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daliy/2024-05-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dc4a0b2c5d9830c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사 관련 공부/Infragistic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/마크다운 사용법.md",
+                "file": "AttachedFile/dongdong.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/마크다운 사용법.md",
+                "file": "AttachedFile/dongdong.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/마크다운 사용법.md"
+                "file": "AttachedFile/dongdong.jpg"
               }
             }
           },
@@ -218,13 +171,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c7ac5aee8b014b9",
+  "active": "6f79071a24ae1fa1",
   "lastOpenFiles": [
+    "무제 폴더",
+    "AttachedFile/panda12.png",
+    "Obsidian/마크다운 사용법.md",
     "무제 파일.md",
     "Welcome.md",
     "create a link.md",
     "무제 파일 1.canvas",
-    "Obsidian/마크다운 사용법.md",
     "무제 파일.canvas",
     "회사 관련 공부/Infragistic.md",
     "5. 정보처리산업기사/무제 파일 1.md",
@@ -234,7 +189,6 @@
     "2. Weekly/2024-W11.md",
     "1. Daliy/2024-05-13.md",
     "Obsidian/옵시디언 사용법.md",
-    "AttachedFile/panda12.png",
     "AttachedFile/dongdong.jpg",
     "Study 공부 정리/1주차 공부 내용 정리.md",
     "Study 공부 정리",
