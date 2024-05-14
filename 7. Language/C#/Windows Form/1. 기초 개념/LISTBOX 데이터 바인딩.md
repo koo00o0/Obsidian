@@ -1,5 +1,6 @@
 
 
+<br>
 
 ### SqlDataAdapter
 SqlDataAdapter는 데이터베이스와 데이터 사이의 다리 역할을 하는 객체입니다.
@@ -8,6 +9,8 @@ SqlDataAdapter는 SqlCommand를 기반으로 데이터베이스와 상호 작용
 
 ------------------------
 ### DataTable
+
+
 DataTable은 메모리 상에 테이블 형식의 데이터를 담는 객체입니다.
 SqlDataAdapter를 사용하여 데이터베이스로부터 가져온 데이터를 DataTable에 채웁니다.
 
