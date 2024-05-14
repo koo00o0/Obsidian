@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "808524e971702124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Language/C#/Windows Form/1. 기초 개념/W.F 기본 개념 및 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
+                "file": "7. Language/C#/Windows Form/1. 기초 개념/W.F 기본 개념 및 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
+                "file": "7. Language/C#/Windows Form/1. 기초 개념/W.F 기본 개념 및 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md"
+                "file": "7. Language/C#/Windows Form/1. 기초 개념/W.F 기본 개념 및 문법.md"
               }
             }
           },
@@ -178,8 +191,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aaae07b5a1980fa5",
+  "active": "808524e971702124",
   "lastOpenFiles": [
+    "7. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
+    "무제 파일.md",
+    "7. Language/C#/Windows Form/1. 기초 개념/W.F 기본 개념 및 문법.md",
+    "7. Language/C#/Windows Form/1. 기초 개념/도구상자.md",
+    "7. Language/C#/Windows Form/1. 기초 개념/LISTBOX 데이터 바인딩.md",
+    "Obsidian/마크다운 사용법.md",
+    "Excalidraw/Drawing 2024-05-14 14.37.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-14 14.37.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-14 14.37.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-14 14.36.19.excalidraw.md",
+    "Css/무제 파일.md",
+    "Css",
     "8. DB/Mssql/무제 파일.md",
     "7. Language/C#/Windows Form/2. 프로젝트/사용자 키오스크/사용자 키오스크/test/Properties/Settings.Designer.cs",
     "7. Language/C#/Windows Form/2. 프로젝트/사용자 키오스크/사용자 키오스크/test/Properties/Settings.settings",
@@ -190,32 +215,21 @@
     "7. Language/C#/Windows Form/2. 프로젝트/사용자 키오스크/사용자 키오스크/test/obj/Debug/test.UserInfo.resources",
     "7. Language/C#/Windows Form/2. 프로젝트/사용자 키오스크/사용자 키오스크/test/obj/Debug/test.PwFindForm.resources",
     "7. Language/C#/Windows Form/2. 프로젝트/사용자 키오스크/사용자 키오스크/test/obj/Debug/test.pdb",
-    "7. Language/C#/Windows Form/2. 프로젝트/사용자 키오스크/사용자 키오스크/test/obj/Debug/test.MenuManagementPage.resources",
     "7. Language/C#/Net FrameWork/2. 프로젝트/MvcApplication1 (.net)/wwwroot/lib/jquery-validation/LICENSE.md",
     "7. Language/C#/Net FrameWork/2. 프로젝트/Drawing 2024-05-14 13.49.44.excalidraw.md",
     "4. Yearly/2024.md",
-    "7. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
-    "7. Language/C#/Windows Form/1. 기초 개념/도구상자.md",
-    "7. Language/C#/Windows Form/1. 기초 개념/LISTBOX 데이터 바인딩.md",
-    "7. Language/C#/Windows Form/1. 기초 개념/W.F 기본 개념 및 문법.md",
     "7. Language/C#/Windows Form/DBHelper/DBHelper 작성 양식.md",
     "7. Language/C#/Windows Form/DBHelper/DBHelper와 DLL차이.md",
     "6. 회사 관련 공부/WMS/기본 개념/WMS 관련 코드 분석.md",
     "6. 회사 관련 공부/WMS/기본 개념/Infragistic.md",
     "9. Study 공부 정리/1주차 공부 내용 정리.md",
     "Obsidian/옵시디언 사용법.md",
-    "8. DB/개념/용어.md",
+    "8. DB/공통 개념/용어.md",
     "1. Daliy/2024-03-18.md",
     "1. Daliy/2024-05-14.md",
-    "8. DB/개념/자주 사용하는 구문.md",
-    "8. DB/개념/DB 함수와 프로시저.md",
+    "8. DB/공통 개념/자주 사용하는 구문.md",
+    "8. DB/공통 개념/DB 함수와 프로시저.md",
     "Pasted image 20240513174103.jpg",
-    "무제 파일.md",
-    "2024-05-14.md",
-    "Templates/탬플릿.md",
-    "3. Monthly/2024-05.md",
-    "2. Weekly/2024-W20.md",
-    "1. Daliy/2024-05-13.md",
     "AttachedFile/panda12.png",
     "AttachedFile/dongdong.jpg",
     "AttachedFile/Background.png",

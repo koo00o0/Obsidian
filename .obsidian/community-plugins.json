@@ -5,5 +5,7 @@
   "background-image",
   "obsidian-git",
   "templater-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "custom-font-loader",
+  "css-snippets"
 ]
