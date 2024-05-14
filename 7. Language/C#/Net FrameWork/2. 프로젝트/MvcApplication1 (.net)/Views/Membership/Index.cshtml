@@ -1,0 +1,44 @@
+﻿@model List<string>
+<asp:Content ID="Content1" ContentPlaceHolderID="TitleContent" runat="server">
+    Index
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
+
+    <script>
+        function deleteItem(i) {
+            alert("Deleting item at index: " + i);
+        }
+    </script>
+
+    <div class="container">
+        <h2>회원관리</h2>
+        <h2>로그인 성공</h2>
+        <h3>ID: @TempData["UserIdValue"]</h3> 
+
+        <a href="Membership/login" class="btn btn-primary">로그인</a>
+        <a href="Membership/Register" class="btn btn-success">회원가입</a>
+
+        <ul class="list-group mt-4">
+            @if (Model != null)
+            {
+                for (int i = 0; i < Model.Count; i++)
+                {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                        @Model[i]
+                    <button class="btn btn-danger" onclick="deleteItem(@i)">삭제</button>
+                </li>
+                }
+            }
+            else
+            {
+                  <li class="list-group-item">아이디값 없음</li>
+            }
+        </ul>
+
+    </div>
+    <form action="/Membership/TodoList" method="post">
+        <input type="submit" value="TODOLIST" class="btn btn-primary">
+    </form>
+</asp:Content>

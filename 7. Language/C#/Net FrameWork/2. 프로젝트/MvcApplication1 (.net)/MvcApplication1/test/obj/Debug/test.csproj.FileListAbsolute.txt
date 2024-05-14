@@ -1,0 +1,8 @@
+c:\users\sammi\documents\visual studio 2010\Projects\MvcApplication1\test\bin\Debug\test.dll.config
+c:\users\sammi\documents\visual studio 2010\Projects\MvcApplication1\test\bin\Debug\test.dll
+c:\users\sammi\documents\visual studio 2010\Projects\MvcApplication1\test\bin\Debug\test.pdb
+c:\users\sammi\documents\visual studio 2010\Projects\MvcApplication1\test\bin\Debug\MvcApplication1.dll
+c:\users\sammi\documents\visual studio 2010\Projects\MvcApplication1\test\bin\Debug\MvcApplication1.pdb
+c:\users\sammi\documents\visual studio 2010\Projects\MvcApplication1\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\sammi\documents\visual studio 2010\Projects\MvcApplication1\test\obj\Debug\test.dll
+c:\users\sammi\documents\visual studio 2010\Projects\MvcApplication1\test\obj\Debug\test.pdb

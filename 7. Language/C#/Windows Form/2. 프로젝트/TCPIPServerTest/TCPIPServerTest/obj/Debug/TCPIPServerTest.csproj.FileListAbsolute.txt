@@ -1,0 +1,10 @@
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\bin\Debug\TCPIPServerTest.exe.config
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\bin\Debug\TCPIPServerTest.exe
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\bin\Debug\TCPIPServerTest.pdb
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\obj\Debug\TCPIPServerTest.csprojAssemblyReference.cache
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\obj\Debug\TCPIPServerTest.Form1.resources
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\obj\Debug\TCPIPServerTest.Properties.Resources.resources
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\obj\Debug\TCPIPServerTest.csproj.GenerateResource.cache
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\obj\Debug\TCPIPServerTest.csproj.CoreCompileInputs.cache
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\obj\Debug\TCPIPServerTest.exe
+C:\Users\SAMMI\source\repos\TCPIPServerTest\TCPIPServerTest\obj\Debug\TCPIPServerTest.pdb

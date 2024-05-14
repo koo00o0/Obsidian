@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D1325012-94EF-416E-890E-0DC10AFDCBEB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>test</RootNamespace>
+    <AssemblyName>test</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adminpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adminpage.Designer.cs">
+      <DependentUpon>Adminpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CafeMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CafeMenu.Designer.cs">
+      <DependentUpon>CafeMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBhelper.cs" />
+    <Compile Include="Highlow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Highlow.Designer.cs">
+      <DependentUpon>Highlow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JoinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JoinForm.Designer.cs">
+      <DependentUpon>JoinForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuManagementPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuManagementPage.Designer.cs">
+      <DependentUpon>MenuManagementPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PwFindForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PwFindForm.Designer.cs">
+      <DependentUpon>PwFindForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IdFindForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IdFindForm.Designer.cs">
+      <DependentUpon>IdFindForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInfo.Designer.cs">
+      <DependentUpon>UserInfo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Adminpage.resx">
+      <DependentUpon>Adminpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CafeMenu.resx">
+      <DependentUpon>CafeMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Highlow.resx">
+      <DependentUpon>Highlow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JoinForm.resx">
+      <DependentUpon>JoinForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuManagementPage.resx">
+      <DependentUpon>MenuManagementPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PwFindForm.resx">
+      <DependentUpon>PwFindForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdFindForm.resx">
+      <DependentUpon>IdFindForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UserInfo.resx">
+      <DependentUpon>UserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1%28x86 및 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

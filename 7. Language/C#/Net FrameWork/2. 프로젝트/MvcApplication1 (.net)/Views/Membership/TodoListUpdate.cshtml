@@ -1,0 +1,34 @@
+﻿
+@model List<string>
+<asp:Content ID="Content1" ContentPlaceHolderID="TitleContent" runat="server">
+    TodoListUpdate
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
+
+    <script>
+
+
+    </script>
+
+    <div class="container">
+        <h2>회원관리</h2>
+        <h2>로그인 성공</h2>
+        <h3>ID: @TempData["UserIdValue"]</h3> 
+
+        <a href="Membership/TodoList" class="btn btn-primary">뒤로가기</a>
+
+        <ul class="list-group mt-4">
+            
+                 
+            <input type="text" id="UpdateContext" name = "context"  />
+
+           
+        </ul>
+
+    </div>
+    <form action="/Membership/TodoList" method="post">
+        <input type="submit" value="TODOLIST" class="btn btn-primary">
+    </form>
+</asp:Content>

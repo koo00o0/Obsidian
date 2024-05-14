@@ -1,0 +1,115 @@
+﻿@model List<string>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="TitleContent" runat="server">
+    TodoList
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
+
+  <script>
+    function AddContext() {
+      if($('.Context').val() == "")
+      {
+        alert("내용을 입력해주세요");
+        return;
+      }else{
+        $.ajax({
+            dataType : "text",
+            type : "post",
+            url : "/Membership/AddContext",
+            data : {
+            "Context" : $('.Context').val(),
+            },success : function (result)
+            {
+                if(result =="T")
+                {
+                    alert("성공");
+                    location.reload();
+                }else
+                {
+                    alert("실패");
+                    return;
+                }
+            }, error : function(e)
+            {
+                alert(e);
+            }
+        })
+      }
+    }  
+
+
+     function deleteContext(value) {
+
+        alert(value+"이게맞아?");
+        $.ajax({
+            dataType : "text",
+            type : "post",
+            url : "/Membership/deleteContext",
+            data : {
+            "decontext" : value
+            },success : function (result)
+            {
+                if(result =="T")
+                {
+                    alert("성공");
+                    location.reload();
+                }else
+                {
+                    alert("실패");
+                }
+            }, error : function(e)
+            {
+                alert(e);
+            }
+        })
+    }
+
+    function updateContext(value) {
+   
+        $.ajax({
+            dataType : "text",
+            type : "post",
+            url : "/Membership/UpdateContext",
+            data : {
+            "decontext" : value
+            },
+                
+        })
+        location.href = "Membership/TodoListUpdate";
+    } 
+  </script>
+
+
+    <h2>TodoList</h2>
+    <h3>ID: @TempData["UserIdValue"]</h3> 
+
+        <div class="form-group">
+            <label for="contextInput">내용 추가:</label>
+            <input type="text" class="form-control Context" name="UserId" id="contextInput" placeholder="내용 입력" />
+            <button class="btn btn-primary mt-2" onclick="AddContext()">추가</button>
+        </div>
+
+        <ul class="list-group">
+        @if (Model != null && Model.Any())
+        {
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <sapn > @Model[i] </sapn>
+                     <button class="btn btn-danger" onclick="deleteContext('@Model[i]')">삭제</button>
+                     <button class="btn btn-danger" onclick="updateContext('@Model[i]')">수정</button>
+            </li>
+                    
+            }
+        }
+        else
+        {
+             <li class="list-group-item">내용 없음</li>
+        }
+        </ul>
+    </div>
+
+</asp:Content>

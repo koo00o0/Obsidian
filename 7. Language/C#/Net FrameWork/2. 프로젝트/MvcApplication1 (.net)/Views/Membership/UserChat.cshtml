@@ -1,0 +1,120 @@
+﻿@model List<string>
+<asp:Content ID="Content1" ContentPlaceHolderID="TitleContent" runat="server">
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding-top: 20px;
+        }
+        .chat-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .chat-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .chat-messages {
+            list-style-type: none;
+            padding: 0;
+        }
+        .chat-message {
+            margin-bottom: 10px;
+        }
+        .chat-input {
+            display: flex;
+            margin-top: 20px;
+        }
+        .user-input {
+            flex: 1;
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            margin-right: 10px;
+        }
+        .send-button {
+            padding: 8px 20px;
+            border: none;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .send-button:hover {
+            background-color: #45a049;
+        }
+</style>
+
+  <script>
+      function textInput(){
+          focus($(".UserIdContextInp").val());
+        if($(".UserIdContextInp").val()=="")
+        {
+            alert("메세지를 입력해주세요");
+            
+            return;
+        }else{
+            $.ajax({
+                dataType : "text",
+                type : "post",
+                url : "/Membership/ChatingInsert",
+                data : {
+            
+                    "userIdMessage" : $(".UserIdContextInp").val(),
+                } ,success : function (result)
+                {
+                    if(result=="T")
+                    {
+                        location.reload();
+                    }
+                }, error : function (e)
+                {
+                    alert (e);
+                }
+            })
+        }
+
+      }
+  </script>
+
+    <a href="/Membership/Index">뒤로가기</a>
+    <h2>채팅방</h2><br>
+
+
+    <h4>ID : @TempData["UserIdValue"]</h4>
+
+
+    <div>
+        @if (Model != null)
+        {
+            for (int i = 0; i < Model.Count; i++)
+            {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span>@Model[i]</span>
+                </li>  
+            }
+        }
+        else
+        {
+                 <li class="list-group-item">내용 없음</li>
+        }
+    </div>
+    <br> 
+        <input type="text" name="UserIdContext" value="@TempData["UserIdValue"] : " class="UserIdContextInp">
+        <input type="button" class="contextEnterBtn send-button" value= "입력" onclick="textInput()">
+
+
+</asp:Content>

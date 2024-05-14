@@ -1,0 +1,10 @@
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\bin\Release\TCPIPClientTest.exe.config
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\bin\Release\TCPIPClientTest.exe
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\bin\Release\TCPIPClientTest.pdb
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\obj\Release\TCPIPClientTest.Form1.resources
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\obj\Release\TCPIPClientTest.Properties.Resources.resources
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\obj\Release\TCPIPClientTest.csproj.GenerateResource.cache
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\obj\Release\TCPIPClientTest.csproj.CoreCompileInputs.cache
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\obj\Release\TCPIPClientTest.exe
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\obj\Release\TCPIPClientTest.pdb
+C:\Users\SAMMI\source\repos\TCPIPClientTest\TCPIPClientTest\obj\Release\TCPIPClientTest.csprojAssemblyReference.cache
