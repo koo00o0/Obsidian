@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. DB/Mssql/1. 기초 개념.md",
+                "file": "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. DB/Mssql/1. 기초 개념.md",
+                "file": "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. DB/Mssql/1. 기초 개념.md"
+                "file": "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md"
               }
             }
           },
@@ -186,9 +186,9 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "6f79071a24ae1fa1",
