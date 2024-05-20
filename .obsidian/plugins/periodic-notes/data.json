@@ -4,20 +4,20 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "",
-    "folder": "1. Daliy",
+    "template": "1. Planner/1. Daliy",
+    "folder": "1. Planner/1. Daliy",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "2. Weekly",
+    "template": "1. Planner/2. Weekly/",
+    "folder": "1. Planner/2. Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "",
-    "folder": "3. Monthly",
+    "template": "1. Planner/3. Monthly",
+    "folder": "1. Planner/3. Monthly",
     "enabled": true
   },
   "quarterly": {
@@ -27,7 +27,7 @@
   },
   "yearly": {
     "format": "",
-    "template": "",
+    "template": "1. Planner/4. Yearly/",
     "folder": "4. Yearly",
     "enabled": true
   }
