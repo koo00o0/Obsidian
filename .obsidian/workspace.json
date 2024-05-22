@@ -25,26 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Planner/1. Daliy/2024-05-20.md",
+                "file": "1. Planner/1. Daliy/2024-05-22.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "3779a2a4eb7268c0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5149fca6c2c3adb0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Planner/1. Daliy/2024-05-20.md",
+                "file": "1. Planner/1. Daliy/2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Planner/1. Daliy/2024-05-20.md",
+                "file": "1. Planner/1. Daliy/2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Planner/1. Daliy/2024-05-20.md"
+                "file": "1. Planner/1. Daliy/2024-05-22.md"
               }
             }
           },
@@ -209,9 +193,10 @@
   },
   "active": "808524e971702124",
   "lastOpenFiles": [
-    "1. Planner/1. Daliy/2024-05-20.md",
+    "1. Planner/1. Daliy/2024-05-22.md",
     "1. Planner/3. Monthly/2024-05.md",
     "1. Planner/2. Weekly/2024-W21.md",
+    "1. Planner/1. Daliy/2024-05-20.md",
     "1. Planner/1. Daliy/2024-05-14.md",
     "4. Language/공통개념/SWICH 문과 IF ~ ELSE 문 차이 분석.md",
     "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
@@ -244,7 +229,6 @@
     "무제 파일.md",
     "99. Obsidian/마크다운 사용법.md",
     "99. Excalidraw/Drawing 2024-05-14 14.37.30.excalidraw.md",
-    "99. Excalidraw/Drawing 2024-05-14 14.37.29.excalidraw.md",
     "Pasted image 20240513174103.jpg",
     "99. AttachedFile/panda12.png",
     "99. AttachedFile/dongdong.jpg",
