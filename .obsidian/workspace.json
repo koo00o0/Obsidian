@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Planner/1. Daliy/2024-05-22.md",
+                "file": "4. Language/C#/Net FrameWork/1. 기초 개념/1. 문법/인스턴스(instance).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Planner/1. Daliy/2024-05-22.md",
+                "file": "4. Language/C#/Net FrameWork/1. 기초 개념/1. 문법/인스턴스(instance).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Planner/1. Daliy/2024-05-22.md",
+                "file": "4. Language/C#/Net FrameWork/1. 기초 개념/1. 문법/인스턴스(instance).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Planner/1. Daliy/2024-05-22.md"
+                "file": "4. Language/C#/Net FrameWork/1. 기초 개념/1. 문법/인스턴스(instance).md"
               }
             }
           },
@@ -194,6 +194,8 @@
   "active": "808524e971702124",
   "lastOpenFiles": [
     "1. Planner/1. Daliy/2024-05-22.md",
+    "4. Language/C#/Net FrameWork/1. 기초 개념/1. 문법/인스턴스(instance).md",
+    "4. Language/C#/Net FrameWork/1. 기초 개념/1. 문법",
     "1. Planner/3. Monthly/2024-05.md",
     "1. Planner/2. Weekly/2024-W21.md",
     "1. Planner/1. Daliy/2024-05-20.md",
@@ -213,7 +215,6 @@
     "2. Blog/1. 개념 정리",
     "3. Study/2024/5월/1주차 공부 내용 정리.md",
     "3. Study/2024/7월",
-    "3. Study/2024/6월",
     "4. Language/C#/Windows Form/1. 기초 개념/W.F 기본 개념 및 문법.md",
     "4. Language/C#/Windows Form/1. 기초 개념/LISTBOX 데이터 바인딩.md",
     "4. Language/C#/Windows Form/1. 기초 개념/도구상자.md",
@@ -228,7 +229,6 @@
     "1. Planner/2. Weekly/2024-W11.md",
     "무제 파일.md",
     "99. Obsidian/마크다운 사용법.md",
-    "99. Excalidraw/Drawing 2024-05-14 14.37.30.excalidraw.md",
     "Pasted image 20240513174103.jpg",
     "99. AttachedFile/panda12.png",
     "99. AttachedFile/dongdong.jpg",
