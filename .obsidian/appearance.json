@@ -6,5 +6,7 @@
     "extended-colorschemes"
   ],
   "baseFontSize": 18,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "textFontFamily": "Cooper",
+  "monospaceFontFamily": "Century Gothic"
 }
