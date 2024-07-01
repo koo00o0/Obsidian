@@ -8,29 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aaae07b5a1980fa5",
+            "id": "ade981eff0fbd502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
+                "file": "7. Work/SAMMI/관련 용어 (공통)/CEAT 프로세스.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d716f9d02fa68685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eae5d13092b7762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Work/SAMMI/관련 용어 (공통)/CEAT 프로세스.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ade981eff0fbd502",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,6 +82,18 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "aaae07b5a1980fa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -96,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
+                "file": "7. Work/SAMMI/관련 용어 (공통)/CEAT 프로세스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
+                "file": "7. Work/SAMMI/관련 용어 (공통)/CEAT 프로세스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md"
+                "file": "7. Work/SAMMI/관련 용어 (공통)/CEAT 프로세스.md"
               }
             }
           },
@@ -189,12 +208,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ade981eff0fbd502",
+  "active": "2eae5d13092b7762",
   "lastOpenFiles": [
+    "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
+    "7. Work/SAMMI/관련 용어 (공통)/CEAT 프로세스.md",
     "1. Planner/1. Daliy/2024-03-16.md",
     "1. Planner/1. Daliy/2024-03-15.md",
     "5. DB/Oracle/1. 기본 개념/VUG (가상 테이블)와  함수 차이.md",
-    "4. Language/C#/Windows Form/1. 기초 개념/DB로 쿼리 문 전달 문법 양식.md",
     "1. Planner/2. Weekly/2024-W23.md",
     "1. Planner/1. Daliy/2024-06-03.md",
     "1. Planner/3. Monthly/2024-06.md",
@@ -226,7 +246,6 @@
     "4. Language/C#/Windows Form/1. 기초 개념/LISTBOX 데이터 바인딩.md",
     "4. Language/C#/Windows Form/1. 기초 개념/도구상자.md",
     "5. DB/Mssql/1. 기초 개념.md",
-    "4. Language/C#/Windows Form/DBHelper/DBHelper와 DLL차이.md",
     "Pasted image 20240513174103.jpg",
     "99. AttachedFile/panda12.png",
     "99. AttachedFile/dongdong.jpg",
